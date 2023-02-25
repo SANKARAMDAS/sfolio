@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/sfolio/static/css/main.d68b03d4.chunk.css",
+    "main.js": "/sfolio/static/js/main.c7a1846b.chunk.js",
+    "main.js.map": "/sfolio/static/js/main.c7a1846b.chunk.js.map",
+    "runtime-main.js": "/sfolio/static/js/runtime-main.f15019b1.js",
+    "runtime-main.js.map": "/sfolio/static/js/runtime-main.f15019b1.js.map",
+    "static/js/2.326640f6.chunk.js": "/sfolio/static/js/2.326640f6.chunk.js",
+    "static/js/2.326640f6.chunk.js.map": "/sfolio/static/js/2.326640f6.chunk.js.map",
+    "index.html": "/sfolio/index.html",
+    "static/css/main.d68b03d4.chunk.css.map": "/sfolio/static/css/main.d68b03d4.chunk.css.map",
+    "static/js/2.326640f6.chunk.js.LICENSE.txt": "/sfolio/static/js/2.326640f6.chunk.js.LICENSE.txt",
+    "static/media/CryptographyVisualizer.873e9d90.png": "/sfolio/static/media/CryptographyVisualizer.873e9d90.png",
+    "static/media/distance-two-locations.386e1a9c.jpg": "/sfolio/static/media/distance-two-locations.386e1a9c.jpg",
+    "static/media/ecommerce.8b58af01.png": "/sfolio/static/media/ecommerce.8b58af01.png",
+    "static/media/geolocation-api.a10d8bed.jpg": "/sfolio/static/media/geolocation-api.a10d8bed.jpg",
+    "static/media/gsearch.f2668f7e.png": "/sfolio/static/media/gsearch.f2668f7e.png",
+    "static/media/info.df517275.png": "/sfolio/static/media/info.df517275.png",
+    "static/media/linkedIn-icon.68ac41e1.png": "/sfolio/static/media/linkedIn-icon.68ac41e1.png",
+    "static/media/movieapp.7e3534ac.png": "/sfolio/static/media/movieapp.7e3534ac.png",
+    "static/media/musicapp.416c3775.png": "/sfolio/static/media/musicapp.416c3775.png",
+    "static/media/nft.9319db6b.png": "/sfolio/static/media/nft.9319db6b.png",
+    "static/media/s-logo.1eea04cf.png": "/sfolio/static/media/s-logo.1eea04cf.png",
+    "static/media/spaceX.bc489f8a.png": "/sfolio/static/media/spaceX.bc489f8a.png",
+    "static/media/spotifyClone.f876b2d9.jpg": "/sfolio/static/media/spotifyClone.f876b2d9.jpg",
+    "static/media/suitcase.e14b0bb3.png": "/sfolio/static/media/suitcase.e14b0bb3.png",
+    "static/media/svg-advantages-and-disadvantages.22116676.jpg": "/sfolio/static/media/svg-advantages-and-disadvantages.22116676.jpg",
+    "static/media/taxiapp.c2a3a423.png": "/sfolio/static/media/taxiapp.c2a3a423.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f15019b1.js",
+    "static/js/2.326640f6.chunk.js",
+    "static/css/main.d68b03d4.chunk.css",
+    "static/js/main.c7a1846b.chunk.js"
+  ]
+}
