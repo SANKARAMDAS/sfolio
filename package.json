@@ -1,4 +1,5 @@
 {
+  "homepage": "https://SANKARAMDAS.github.io/sfolio",
   "name": "sfolio",
   "version": "1.0.0",
   "description": "Personal website simulating Google Search interface, developed with React",
@@ -25,7 +26,7 @@
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",

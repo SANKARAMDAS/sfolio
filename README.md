@@ -1,6 +1,6 @@
 # sfolio
 
-A Portfolio wesbsite like google.
+A Portfolio wesbsite like google(mirror).
 
 clone it > yarn/npm install > yarn start/npm start
 
