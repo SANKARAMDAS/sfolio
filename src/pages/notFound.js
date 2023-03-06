@@ -39,9 +39,9 @@ function NotFound() {
           </p>
           <p> Suggestions: </p>
           <ul>
-            <li>Try a different keyword from the search dropdown</li>
+            <li>Try a different keyword from the search dropdown.</li>
             <li>Make sure that all words are spelled correctly.</li>
-            <li>Click one of the links from the suggestions or menu above</li>
+            <li>Click one of the links from the suggestions or menu above.</li>
           </ul>
         </div>
       </div>

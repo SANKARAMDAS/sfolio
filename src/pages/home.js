@@ -112,7 +112,7 @@ function Home() {
 
       <footer className="footer">
         <div className="country">
-          India
+          India 
         </div>
         <div className="footer-links">
           <div className="footer-links-section">
