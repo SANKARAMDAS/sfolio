@@ -1,5 +1,5 @@
 # sfolio
-https://sankaramdas.github.io/
+sankaramdas.github.io/sfolio/
 
 A Portfolio wesbsite like google(mirror).
 
